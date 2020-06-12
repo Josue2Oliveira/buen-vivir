@@ -1,2 +1,2 @@
 # Buen-vivir
-# God
+
