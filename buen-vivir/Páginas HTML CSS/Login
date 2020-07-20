@@ -1,0 +1,10 @@
+<html>
+<body>
+    {{#if currentUser}}
+        {{> dashboard}}
+    {{else}}
+        {{> register}}
+        {{> login}}
+    {{/if}}
+</body>
+</html>
